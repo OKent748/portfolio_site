@@ -1,0 +1,15 @@
+body
+{background-color: rgb(72, 99, 135);font-family: 'Times New Roman', Times, serif;}
+h1
+{text-align: center;color: rgb(215, 221, 143);font-size:70;}
+p
+{text-align: center;color:midnightblue;margin: 20;padding: 20px;font-family: sans-serif;background-color:azure}
+ image
+ {text-align:right;}
+ a {align-items:center; position: relative;top: 20px;}
+ .center
+ {display: block;margin-left: auto;margin-right: auto;width: 350;}
+ a
+ {text-align: center;display: block;font-family:sans-serif;background-color: rgb(239, 239, 163);margin: 75;padding: 10px;}
+ 
+ 
